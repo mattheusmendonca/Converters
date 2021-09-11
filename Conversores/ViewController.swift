@@ -32,7 +32,7 @@ class ViewController: UIViewController {
                 btUnit1.setTitle("Kilograma", for: .normal)
                 btUnit2.setTitle("Libra", for: .normal)
             case "Peso":
-                lbUnit.text = "Moeda"
+                lbUnit.text = "Moedaa"
                 btUnit1.setTitle("Real", for: .normal)
                 btUnit2.setTitle("Dolar", for: .normal)
             case "Moeda":
